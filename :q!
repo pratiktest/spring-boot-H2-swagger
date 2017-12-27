@@ -1,0 +1,16 @@
+#F5 Networks Inc. :File modified by VPN process
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+10.149.251.229  www.pgwpmtsvc.stg.qa.ebay.com
+::1             localhost
+216.113.175.234 vcsignin.corp.ebay.com
+216.113.175.234 vc.corp.ebay.com
+216.113.175.234 meetme.corp.ebay.com
+216.113.160.19 ion-sjd.corp.ebay.com
+10.65.198.104 master
